@@ -1,0 +1,21 @@
+.Header{
+  text-align: center;
+  background-color: rgb(56, 174, 179);
+  color:white;
+  font-weight: bold;
+  font-size:1em;
+  letter-spacing: 2px;
+
+}
+.NavItems{
+  display: flex;
+  justify-content: space-around
+}
+.NavItems li{
+  list-style:none;
+}
+.Header img{
+  width: 200px;
+  height: 100px;
+
+}

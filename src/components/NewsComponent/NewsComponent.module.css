@@ -1,0 +1,18 @@
+.NewsComponent{
+  width:20%;
+  border:1px solid black;
+  padding:20px;
+  box-sizing: border-box;
+  margin:10px 0px;
+  background-color: #ccc;
+}
+
+@media (max-width:870px){
+  .NewsComponent{
+    width: 100%;
+  }
+}
+.NewsComponent img{
+  width:300px;
+  height: 300px;
+}

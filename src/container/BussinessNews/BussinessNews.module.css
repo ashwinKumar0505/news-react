@@ -1,0 +1,13 @@
+.NewsContainer{
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+}
+
+
+
+@media (max-width:870px){
+      .NewsContainer{
+        flex-direction: column;
+      }
+}

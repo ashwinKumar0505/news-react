@@ -1,0 +1,20 @@
+.items{
+  padding:10px;
+  width:100%;
+  box-sizing: border-box;
+  border:2px solid black;
+  cursor:pointer;
+}
+.items a{
+  text-decoration: none;
+  width: 100%;
+  box-sizing: border-box;
+  color: white;
+  display:block;
+}
+.items a:hover,
+.items a:active,
+.items a.active
+{
+  color:blue;
+}
