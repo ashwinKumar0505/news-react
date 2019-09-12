@@ -1,0 +1,1 @@
+export const SET_THIS_NEWS="SET_THIS_NEWS"
